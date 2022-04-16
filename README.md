@@ -11,9 +11,9 @@ Website: https://e.rip/mysnipes ~ https://e.rip/evadiscord
 
 <p align="center">
   
-<img height= "160" src="https://github-readme-stats.vercel.app/api?username=bqp&show_icons=true&include_all_commits=true&theme=dark" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api?username=bqp&show_icons=true&include_all_commits=true&theme=dark&update" />
 <br />
 <br />
-<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqp&layout=default&theme=dark" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqp&layout=default&theme=dark&update" />
 
 </p>
